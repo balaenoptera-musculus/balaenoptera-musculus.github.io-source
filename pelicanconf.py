@@ -38,7 +38,7 @@ SOCIAL = (('Twitter', 'https://twitter.com/balaenoptera_1'),
           ('Github', 'https://github.com/balaenoptera-musculus'),)
 
 DEFAULT_PAGINATION = 10
-GOOGLE_ANALYTICS = ""#
+GOOGLE_ANALYTICS = ""
 SITEMAP = {
     'format': 'xml',
     'priorities': {
